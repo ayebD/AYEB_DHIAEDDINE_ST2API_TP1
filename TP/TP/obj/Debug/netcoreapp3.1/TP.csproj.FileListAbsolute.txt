@@ -1,0 +1,14 @@
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.csproj.AssemblyReference.cache
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.AssemblyInfoInputs.cache
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.AssemblyInfo.cs
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.csproj.CoreCompileInputs.cache
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.exe
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.deps.json
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.runtimeconfig.json
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.runtimeconfig.dev.json
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.dll
+C:\Users\great\source\repos\TP\TP\bin\Debug\netcoreapp3.1\TP.pdb
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.dll
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.pdb
+C:\Users\great\source\repos\TP\TP\obj\Debug\netcoreapp3.1\TP.genruntimeconfig.cache
